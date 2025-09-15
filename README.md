@@ -6,3 +6,4 @@
 🌐 Atuo com foco em <span style="color:#30df30">desenvolvimento web</span> utilizando <span style="color:#2344fc">React.js</span> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jef53/) 
+[![SITE](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-jef53.vercel.app/) 
